@@ -2,7 +2,7 @@
   <PropertyGroup>
     <AnalysisMode>AllEnabledByDefault</AnalysisMode>
     <Authors>Oleksii Nikiforov</Authors>
-    <Company>EPAM</Company>
+    <Company></Company>
     <Copyright>Oleksii Nikiforov (c) $([System.DateTime]::Now.ToString(yyyy))</Copyright>
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
     <GenerateDocumentationFile>false</GenerateDocumentationFile>
