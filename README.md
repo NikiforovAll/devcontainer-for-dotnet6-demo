@@ -20,7 +20,7 @@ As you can see, everything is you need is already in devcontainer.
 2. VSCode settings and used extensions. 👩‍💻
 3. (Extra) Mount dotfiles, you can use dotfiles by providing vscode special settings (see example below).
 
-```json
+```jsonc
 {
     "name": ".NET 6 devcontainer",
     "image": "nikiforovall/devcontainers-dotnet:latest", // https://github.com/NikiforovAll/dev-containers/tree/master/containers/dotnet
