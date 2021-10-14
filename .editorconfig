@@ -175,6 +175,7 @@ csharp_preserve_single_line_statements = true
 [*.{cs,vb}]
 
 # Naming rules
+csharp_style_namespace_declarations=file_scoped
 
 dotnet_naming_rule.types_and_namespaces_should_be_pascalcase.severity = suggestion
 dotnet_naming_rule.types_and_namespaces_should_be_pascalcase.symbols = types_and_namespaces
